@@ -16,7 +16,7 @@ function Pelicula({ titulo }) {
 
 function App() {
   // 1. Creamos el arreglo con los nombres de tus películas favoritas
-  const misPeliculas = ["Batman", "Avatar", "Inception", "Armagedon", "Interstellar"]
+  const misPeliculas = ["Batman", "Avatar", "Rocky IV", "Armagedon", "Star Wars"]
 
   return (
     <div>
